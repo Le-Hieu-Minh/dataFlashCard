@@ -1,0 +1,373 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Nguyen Thi A",
+      "email": "nguyenthia@gmail.com",
+      "password": "nguyenthia",
+      "token": "bKp9VQydMBRmlW67obqD7"
+    },
+    {
+      "id": 2,
+      "fullName": "Do Thi B",
+      "email": "dothib@gmail.com",
+      "password": "dothib",
+      "token": "KsZitkpwbbPF3fdjbQWh"
+    },
+    {
+      "id": 3,
+      "fullName": "Ngo Van C",
+      "email": "ngovanc@gmail.com",
+      "password": "ngovanc",
+      "token": "abvY7NJdWVNgGcCD9Lo"
+    },
+    {
+      "fullName": "Le Minh Hieu",
+      "email": "afkhieu94@gmail.com",
+      "password": "leminhhieu",
+      "token": "BvSoeUulbZNM8SVLJQfiI",
+      "id": 4
+    }
+  ],
+  "decks": [
+    {
+      "id": 1,
+      "name": "Từ vựng chủ đề động vật"
+    },
+    {
+      "id": 2,
+      "name": "Từ vựng chủ đề nghề nghiệp"
+    },
+    {
+      "id": 3,
+      "name": "Từ vựng chủ đề đồ ăn"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "deckId": 1,
+      "front": "Elephant",
+      "back": "Con voi"
+    },
+    {
+      "id": 2,
+      "deckId": 1,
+      "front": "Giraffe",
+      "back": "Con hươu cao cổ"
+    },
+    {
+      "id": 3,
+      "deckId": 1,
+      "front": "Tiger",
+      "back": "Con hổ"
+    },
+    {
+      "id": 4,
+      "deckId": 1,
+      "front": "Kangaroo",
+      "back": "Con chuột túi"
+    },
+    {
+      "id": 5,
+      "deckId": 1,
+      "front": "Penguin",
+      "back": "Chim cánh cụt"
+    },
+    {
+      "id": 6,
+      "deckId": 2,
+      "front": "Doctor",
+      "back": "Bác sĩ"
+    },
+    {
+      "id": 7,
+      "deckId": 2,
+      "front": "Engineer",
+      "back": "Kỹ sư"
+    },
+    {
+      "id": 8,
+      "deckId": 2,
+      "front": "Teacher",
+      "back": "Giáo viên"
+    },
+    {
+      "id": 9,
+      "deckId": 2,
+      "front": "Chef",
+      "back": "Đầu bếp"
+    },
+    {
+      "id": 10,
+      "deckId": 2,
+      "front": "Police officer",
+      "back": "Cảnh sát"
+    },
+    {
+      "id": 11,
+      "deckId": 3,
+      "front": "Apple",
+      "back": "Quả táo"
+    },
+    {
+      "id": 12,
+      "deckId": 3,
+      "front": "Bread",
+      "back": "Bánh mì"
+    },
+    {
+      "id": 13,
+      "deckId": 3,
+      "front": "Cheese",
+      "back": "Phô mai"
+    },
+    {
+      "id": 14,
+      "deckId": 3,
+      "front": "Rice",
+      "back": "Cơm"
+    },
+    {
+      "id": 15,
+      "deckId": 3,
+      "front": "Potato",
+      "back": "khoai tây"
+    }
+  ],
+  "reviewSessions": [
+    {
+      "id": 1,
+      "userId": 1,
+      "deckId": 1,
+      "correctCount": 4,
+      "incorrectCount": 1,
+      "percentage": 80,
+      "timestamp": "2025-06-21T08:30:00"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "deckId": 2,
+      "correctCount": 3,
+      "incorrectCount": 2,
+      "percentage": 60,
+      "timestamp": "2025-06-21T09:00:00"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "deckId": 3,
+      "correctCount": 5,
+      "incorrectCount": 0,
+      "percentage": 100,
+      "timestamp": "2025-06-21T09:30:00"
+    },
+    {
+      "userId": 1,
+      "deckId": 2,
+      "correctCount": 5,
+      "incorrectCount": 0,
+      "percentage": 100,
+      "timestamp": "2025-06-24T13:05:26.937Z",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "deckId": 3,
+      "correctCount": 5,
+      "incorrectCount": 0,
+      "percentage": 100,
+      "timestamp": "2025-06-24T14:36:39.409Z",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "deckId": 1,
+      "correctCount": 5,
+      "incorrectCount": 0,
+      "percentage": 100,
+      "timestamp": "2025-06-24T15:02:30.049Z",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "deckId": 1,
+      "correctCount": 5,
+      "incorrectCount": 0,
+      "percentage": 100,
+      "timestamp": "2025-06-24T15:02:45.484Z",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "deckId": 3,
+      "correctCount": 5,
+      "incorrectCount": 0,
+      "percentage": 100,
+      "timestamp": "2025-06-24T15:03:00.665Z",
+      "id": 8
+    },
+    {
+      "userId": 2,
+      "deckId": 1,
+      "correctCount": 3,
+      "incorrectCount": 2,
+      "percentage": 60,
+      "timestamp": "2025-06-24T15:22:46.758Z",
+      "id": 9
+    },
+    {
+      "userId": 2,
+      "deckId": 3,
+      "correctCount": 0,
+      "incorrectCount": 5,
+      "percentage": 0,
+      "timestamp": "2025-06-24T15:44:54.712Z",
+      "id": 10
+    },
+    {
+      "userId": 3,
+      "deckId": 1,
+      "correctCount": 5,
+      "incorrectCount": 0,
+      "percentage": 100,
+      "timestamp": "2025-06-24T15:46:06.001Z",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "deckId": 3,
+      "correctCount": 5,
+      "incorrectCount": 0,
+      "percentage": 100,
+      "timestamp": "2025-06-25T15:34:37.923Z",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "deckId": 1,
+      "correctCount": 5,
+      "incorrectCount": 0,
+      "percentage": 100,
+      "timestamp": "2025-06-26T00:42:06.209Z",
+      "id": 13
+    },
+    {
+      "userId": 4,
+      "deckId": 1,
+      "correctCount": 5,
+      "incorrectCount": 0,
+      "percentage": 100,
+      "timestamp": "2025-06-27T01:48:09.750Z",
+      "id": 14
+    }
+  ],
+  "reviewAnswers": [
+    {
+      "id": 1,
+      "sessionId": 1,
+      "cardId": 1,
+      "userAnswer": "Con voi",
+      "isCorrect": true
+    },
+    {
+      "id": 2,
+      "sessionId": 1,
+      "cardId": 2,
+      "userAnswer": "Con hươu cao cổ",
+      "isCorrect": true
+    },
+    {
+      "id": 3,
+      "sessionId": 1,
+      "cardId": 3,
+      "userAnswer": "Con sư tử",
+      "isCorrect": false
+    },
+    {
+      "id": 4,
+      "sessionId": 1,
+      "cardId": 4,
+      "userAnswer": "Con chuột túi",
+      "isCorrect": true
+    },
+    {
+      "id": 5,
+      "sessionId": 1,
+      "cardId": 5,
+      "userAnswer": "Chim cánh cụt",
+      "isCorrect": true
+    },
+    {
+      "id": 6,
+      "sessionId": 2,
+      "cardId": 6,
+      "userAnswer": "Bác sĩ",
+      "isCorrect": true
+    },
+    {
+      "id": 7,
+      "sessionId": 2,
+      "cardId": 7,
+      "userAnswer": "Đầu bếp",
+      "isCorrect": false
+    },
+    {
+      "id": 8,
+      "sessionId": 2,
+      "cardId": 8,
+      "userAnswer": "Giáo viên",
+      "isCorrect": true
+    },
+    {
+      "id": 9,
+      "sessionId": 2,
+      "cardId": 9,
+      "userAnswer": "Nông dân",
+      "isCorrect": false
+    },
+    {
+      "id": 10,
+      "sessionId": 2,
+      "cardId": 10,
+      "userAnswer": "Cảnh sát",
+      "isCorrect": true
+    },
+    {
+      "id": 11,
+      "sessionId": 3,
+      "cardId": 11,
+      "userAnswer": "Quả táo",
+      "isCorrect": true
+    },
+    {
+      "id": 12,
+      "sessionId": 3,
+      "cardId": 12,
+      "userAnswer": "Bánh mì",
+      "isCorrect": true
+    },
+    {
+      "id": 13,
+      "sessionId": 3,
+      "cardId": 13,
+      "userAnswer": "Phô mai",
+      "isCorrect": true
+    },
+    {
+      "id": 14,
+      "sessionId": 3,
+      "cardId": 14,
+      "userAnswer": "Cơm",
+      "isCorrect": true
+    },
+    {
+      "id": 15,
+      "sessionId": 3,
+      "cardId": 15,
+      "userAnswer": "khoai tây",
+      "isCorrect": true
+    }
+  ]
+}
